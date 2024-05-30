@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Webstack---Portfolio-Project/static/css/main.10280eab.css",
+    "main.js": "/Webstack---Portfolio-Project/static/js/main.910adbe9.js",
+    "static/js/453.e036e8b5.chunk.js": "/Webstack---Portfolio-Project/static/js/453.e036e8b5.chunk.js",
+    "static/media/game_over.wav": "/Webstack---Portfolio-Project/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/Webstack---Portfolio-Project/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/Webstack---Portfolio-Project/index.html",
+    "main.10280eab.css.map": "/Webstack---Portfolio-Project/static/css/main.10280eab.css.map",
+    "main.910adbe9.js.map": "/Webstack---Portfolio-Project/static/js/main.910adbe9.js.map",
+    "453.e036e8b5.chunk.js.map": "/Webstack---Portfolio-Project/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10280eab.css",
+    "static/js/main.910adbe9.js"
+  ]
+}
